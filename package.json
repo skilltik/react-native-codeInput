@@ -1,0 +1,25 @@
+{
+  "name": "react-native-codeinput",
+  "version": "1.0.0",
+  "description": "Code input validation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skilltik/react-native-codeInput.git"
+  },
+  "author": "Henry Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skilltik/react-native-codeInput/issues"
+  },
+  "homepage": "https://github.com/skilltik/react-native-codeInput#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "prettier": "^1.19.1",
+    "react": "^16.13.0",
+    "react-native": "^0.61.5"
+  }
+}
